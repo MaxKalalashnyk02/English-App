@@ -1,0 +1,21 @@
+{
+  "en": { "welcome": "Welcome", "getStarted": "Get started" },
+  "es": { "welcome": "Bienvenido", "getStarted": "Empezar" },
+  "fr": { "welcome": "Bienvenue", "getStarted": "Commencer" },
+  "de": { "welcome": "Willkommen", "getStarted": "Los geht's" },
+  "it": { "welcome": "Benvenuto", "getStarted": "Inizia" },
+  "pt": { "welcome": "Bem-vindo", "getStarted": "Começar" },
+  "uk": { "welcome": "Вітаємо", "getStarted": "Почати" },
+  "ru": { "welcome": "Добро пожаловать", "getStarted": "Начать" },
+  "pl": { "welcome": "Witamy", "getStarted": "Zaczynamy" },
+  "tr": { "welcome": "Hoş geldiniz", "getStarted": "Başla" },
+  "nl": { "welcome": "Welkom", "getStarted": "Beginnen" },
+  "sv": { "welcome": "Välkommen", "getStarted": "Kom igång" },
+  "el": { "welcome": "Καλώς ήρθατε", "getStarted": "Ξεκινήστε" },
+  "vi": { "welcome": "Chào mừng", "getStarted": "Bắt đầu" },
+  "ja": { "welcome": "ようこそ", "getStarted": "はじめる" },
+  "zh": { "welcome": "欢迎", "getStarted": "开始" },
+  "ko": { "welcome": "환영합니다", "getStarted": "시작하기" },
+  "ar": { "welcome": "أهلاً بك", "getStarted": "ابدأ" },
+  "hi": { "welcome": "स्वागत है", "getStarted": "शुरू करें" }
+}
